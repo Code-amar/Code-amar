@@ -1,324 +1,307 @@
-
 <!-- =========================================================
-     AMAR | GITHUB PROFILE README
-     Replace all placeholders marked with YOUR_...
+     AMAR | DATA ANALYST & ASPIRING DATA SCIENTIST
+     GitHub Profile README
+     Replace YOUR_GITHUB_USERNAME and other placeholders.
+     Add profile-header.svg and data-animation.svg inside assets/.
      ========================================================= -->
-
-<!-- ======================== HERO ========================== -->
 
 <div align="center">
 
-  <!-- Replace YOUR_GITHUB_USERNAME with your actual username -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:0891B2&height=220&section=header&text=AMAR&fontSize=65&fontColor=E2E8F0&fontAlignY=38&desc=Data%20Analyst%20%7C%20Aspiring%20Data%20Scientist&descAlignY=60&descSize=19&descColor=BAE6FD" width="100%" alt="Amar — Data Analyst and aspiring Data Scientist"/>
+<img src="assets/profile-header.svg" width="100%" alt="Animated data science profile header featuring Amar" />
 
-  <br/>
+<br>
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=1100&color=22D3EE&center=true&vCenter=true&width=650&lines=Turning+Data+into+Actionable+Insights;Building+with+Python%2C+SQL+%26+Power+BI;Exploring+Statistics+%26+Machine+Learning;From+Civil+Engineering+to+Data+Science" alt="Animated introduction"/>
-  </a>
-
-  <br/><br/>
-
-  <p>
-    <strong>Analyzing data. Solving problems. Building smarter solutions.</strong>
-  </p>
-
-  <p>
-    I am Amar, a Data Analyst and aspiring Data Scientist passionate about
-    transforming raw data into meaningful business insights through
-    analytics, visualization, and machine learning.
-  </p>
-
-  <br/>
-
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_My_Projects-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects"/>
-  </a>
-  &nbsp;
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+</a>
+<a href="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0891B2&label=Profile+Views" alt="Profile views" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" />
+</a>
 
 </div>
 
-<br/>
+<img src="assets/data-animation.svg" width="100%" alt="Animated data analytics visualization" />
 
-<!-- ===================== ABOUT ME ========================= -->
+---
 
-## About Me
+<div align="center">
 
-I am a **Data Analyst and aspiring Data Scientist** with a background in Civil Engineering from the **National Institute of Technology, Kurukshetra**.
+# AMAR
 
-My journey into data began with a growing interest in understanding numbers, identifying patterns, and using analytical thinking to solve practical problems. I am building on my engineering foundation by developing expertise in data analysis, statistics, Python, and machine learning.
+### Data Analyst · Aspiring Data Scientist
 
-I enjoy working with real-world datasets, cleaning and exploring data, developing dashboards, and communicating insights that can support better business decisions.
+**Turning raw data into meaningful insights.**
 
-- 🎓 B.Tech in Civil Engineering — NIT Kurukshetra, 2018
-- 📊 Focused on data analysis, business intelligence, and statistical reasoning
-- 🐍 Developing practical skills in Python and machine learning
-- 📈 Interested in data-driven decision-making and predictive analytics
-- 🚀 Working toward a career as a Data Analyst and, eventually, a Data Scientist
+*Exploring data. Understanding patterns. Building intelligent solutions.*
 
-<br/>
+</div>
 
-<!-- ==================== CURRENT FOCUS ====================== -->
+---
 
-## Current Focus
+## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+I'm **Amar**, a Data Analyst and aspiring Data Scientist with a background in Civil Engineering from **National Institute of Technology, Kurukshetra**.
 
-### 📚 Learning
+My journey into data began with a growing interest in analytical thinking, problem-solving, and understanding how data can support better decisions. Today, I am building my expertise in data analytics, statistics, Python, and machine learning through hands-on projects and continuous learning.
 
-- Python for Data Analysis
-- Exploratory Data Analysis
-- Statistics for Data Science
-- Supervised & Unsupervised Learning
-- Machine Learning Fundamentals
-- Deep Learning
+I enjoy working with real-world datasets, uncovering patterns, building dashboards, and translating analytical findings into actionable business insights.
 
-    </td>
-    <td width="50%" valign="top">
+* 🎓 B.Tech in Civil Engineering — NIT Kurukshetra
+* 📊 Developing expertise in Data Analytics and Business Intelligence
+* 🐍 Exploring Python, EDA, and Statistics for Data Science
+* 🤖 Learning Supervised and Unsupervised Machine Learning
+* 📈 Interested in predictive analytics and data-driven decision-making
+* 🚀 Working toward a career as a Data Analyst and eventually a Data Scientist
 
-### 🛠️ Building
+---
 
-- End-to-end data analysis projects
-- Business intelligence dashboards
-- Statistical analysis workflows
-- Machine learning experiments
-- Reusable data preprocessing pipelines
-- Recruiter-ready project documentation
+## 🛠️ Tech Stack
 
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ==================== TECHNICAL SKILLS ================== -->
-
-## Technical Skills
-
-### Languages
+### 📊 Data Analytics & Programming
 
 <p>
-  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="SQL"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql" alt="Python and MySQL" />
 </p>
 
-### Data Analysis & Visualization
+`Python` · `SQL` · `Microsoft Excel` · `Pandas` · `NumPy` · `Statistics` · `EDA`
+
+### 📈 Business Intelligence & Visualization
 
 <p>
-  <img src="https://img.shields.io/badge/Excel-0F172A?style=for-the-badge&logo=microsoftexcel&logoColor=217346" alt="Microsoft Excel"/>
-  <img src="https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=013243" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Power_BI-0F172A?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Matplotlib-0F172A?style=for-the-badge&logo=python&logoColor=3776AB" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-0F172A?style=for-the-badge&logo=python&logoColor=4C72B0" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Power%20BI-0F172A?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-0F172A?style=for-the-badge&logo=microsoftexcel&logoColor=217346" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Matplotlib-0F172A?style=for-the-badge&logo=python&logoColor=3776AB" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-0F172A?style=for-the-badge&logo=python&logoColor=4C72B0" alt="Seaborn" />
 </p>
 
-### Databases & Machine Learning
+`Power BI` · `DAX` · `Power Query` · `Matplotlib` · `Seaborn` · `Excel Dashboards`
+
+### 🤖 Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-0F172A?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Statistics-0F172A?style=for-the-badge&logo=googleanalytics&logoColor=E2E8F0" alt="Statistics"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-0F172A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-0F172A?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Statistics-0F172A?style=for-the-badge&logo=googleanalytics&logoColor=22D3EE" alt="Statistics" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="Machine Learning" />
 </p>
 
-### Tools & Platforms
+`Supervised Learning` · `Unsupervised Learning` · `Regression` · `Classification` · `Clustering` · `PCA`
+
+### 💻 Tools & Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Jupyter-0F172A?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter Notebook"/>
-  <img src="https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/MySQL_Workbench-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL Workbench"/>
+  <img src="https://skillicons.dev/icons?i=jupyter,vscode,git,github" alt="Jupyter Notebook, VS Code, Git and GitHub" />
 </p>
 
-<br/>
+`Jupyter Notebook` · `VS Code` · `Git` · `GitHub` · `MySQL Workbench`
 
-<!-- ===================== FEATURED PROJECTS ================= -->
+---
 
-## Featured Projects
+## 📚 Currently Learning
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+<div align="center">
+
+```text
+Python
+   ↓
+Exploratory Data Analysis
+   ↓
+Statistics
+   ↓
+Machine Learning
+   ↓
+Unsupervised Learning
+   ↓
+Deep Learning
+```
+
+</div>
+
+<div align="center">
+
+*Building practical knowledge, one dataset at a time.*
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 📊 Data · Analysis · Insights · Impact
+
+</div>
+
+### 🏗️ Smart Grid Analytics
+
+**Python · Pandas · EDA · Statistics**
+
+An analytical project focused on exploring smart grid data, understanding consumption patterns, identifying relationships between variables, and extracting meaningful insights through exploratory and statistical analysis.
+
+**Focus areas:**
+
+* Data cleaning and preprocessing
+* Exploratory data analysis
+* Statistical analysis
+* Data visualization
+* Business and operational insights
+
+[View Project →](YOUR_SMART_GRID_REPOSITORY_URL)
+
+---
 
 ### 🎵 Chinook Music Store Analysis
 
-**SQL | MySQL**
+**SQL · MySQL · CTEs · Window Functions**
 
-Analyzed a music store database to understand customer purchasing behavior, sales performance, and product trends.
-
-**Business problem:** Identify top-performing artists, genres, albums, and customers to support data-driven sales decisions.
+Analyzed the Chinook Music Store database to understand customer purchasing behavior, sales performance, and product trends.
 
 **Key work:**
-- Advanced SQL queries
-- CTEs and window functions
-- Sales and customer analysis
-- Monthly performance insights
 
-**Repository:** [View Project](YOUR_CHINOOK_REPOSITORY_URL)
+* Identified top-selling artists, genres, and albums
+* Analyzed customer preferences and sales performance
+* Used CTEs and advanced window functions
+* Generated insights into monthly sales and top customers
 
-    </td>
-    <td width="50%" valign="top">
+[View Project →](YOUR_CHINOOK_REPOSITORY_URL)
+
+---
 
 ### 🍽️ Zomato Expansion Strategy
 
-**Excel | Dashboard | Business Analytics**
+**Microsoft Excel · Pivot Tables · Dashboard · Business Analytics**
 
-Developed an Excel dashboard to explore restaurant expansion opportunities using city-wise performance, cuisine trends, and revenue-related analysis.
-
-**Business problem:** Identify promising markets and restaurant categories for expansion.
+Developed an Excel dashboard to analyze city-wise restaurant performance, cuisine preferences, and revenue-related trends to support restaurant expansion decisions.
 
 **Key work:**
-- Data cleaning
-- Pivot tables and advanced Excel formulas
-- Interactive dashboard
-- City and cuisine analysis
 
-**Repository:** [View Project](YOUR_ZOMATO_REPOSITORY_URL)
+* Data cleaning and preparation
+* Advanced Excel formulas
+* Pivot table analysis
+* City and cuisine performance analysis
+* Interactive business dashboard
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+[View Project →](YOUR_ZOMATO_REPOSITORY_URL)
 
-### 🛒 Amazon E-commerce Analysis
+---
 
-**Power BI | SQL | Business Intelligence**
+### 🛒 Amazon E-commerce Sales Analysis
 
-Built a Power BI analysis of Amazon e-commerce transactions to investigate revenue drivers, customer ratings, delivery performance, and product trends.
+**Power BI · SQL · DAX · Data Visualization**
 
-**Business problem:** Understand sales performance and identify opportunities to improve e-commerce outcomes.
+Built a Power BI dashboard to analyze e-commerce transactions, revenue drivers, product performance, customer ratings, and delivery-related trends.
 
 **Key work:**
-- Data preparation and modeling
-- KPI development
-- Interactive Power BI visuals
-- Product and delivery analysis
 
-**Repository:** [View Project](YOUR_AMAZON_REPOSITORY_URL)
+* Data preparation and modeling
+* KPI development
+* Revenue and product analysis
+* Interactive Power BI dashboard
+* Delivery performance and rating analysis
 
-    </td>
-    <td width="50%" valign="top">
+[View Project →](YOUR_AMAZON_REPOSITORY_URL)
+
+---
 
 ### 🚗 Driver Onboarding Analytics
 
-**Python | Pandas | EDA | Statistics**
+**Python · Pandas · EDA · Statistics**
 
-Analyzed an onboarding dataset to understand driver activation, onboarding delays, and factors associated with successful first rides.
-
-**Business problem:** Identify onboarding bottlenecks and opportunities to improve driver activation.
+Analyzed driver onboarding data to understand activation rates, onboarding bottlenecks, and factors associated with successful first rides.
 
 **Key work:**
-- Data cleaning and feature engineering
-- Exploratory data analysis
-- Statistical hypothesis testing
-- Funnel and activation analysis
 
-**Repository:** [View Project](YOUR_DRIVER_ANALYTICS_REPOSITORY_URL)
+* Data cleaning and feature engineering
+* Exploratory data analysis
+* Driver activation funnel analysis
+* Statistical hypothesis testing
+* Experiment and channel performance analysis
 
-    </td>
-  </tr>
-</table>
+[View Project →](YOUR_DRIVER_ANALYTICS_REPOSITORY_URL)
 
-<br/>
+---
 
-<!-- ================= ANALYTICS JOURNEY ===================== -->
-
-## My Data Analytics Journey
-
-```text
-2018
-│
-├── 🎓 Civil Engineering
-│   B.Tech — NIT Kurukshetra
-│
-├── 🔍 Exploring Data & Analytical Thinking
-│   Developing an interest in data-driven problem solving
-│
-├── 📊 Data Analytics Foundations
-│   Excel → SQL → Power BI
-│
-├── 🐍 Python & Exploratory Data Analysis
-│   Pandas → NumPy → Visualization → Statistics
-│
-├── 🤖 Machine Learning
-│   Supervised Learning → Unsupervised Learning
-│
-├── 🧠 Deep Learning
-│   Continuing toward advanced data science
-│
-└── 🚀 Career Goal
-    Data Analyst → Data Scientist
-```
-
-<br/>
-
-<!-- ================= GITHUB STATISTICS ==================== -->
-
-## GitHub Statistics
+## 🧠 My Areas of Interest
 
 <div align="center">
 
-  <!-- Replace YOUR_GITHUB_USERNAME in every URL below -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1&icon_color=38BDF8&include_all_commits=true&count_private=true" height="170" alt="GitHub statistics"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1&langs_count=8" height="170" alt="Most used programming languages"/>
+|       📊 Data & AI      |  🧬 Science & Biology | 🧠 Mind & Behavior | 🌌 Space & Discovery |
+| :---------------------: | :-------------------: | :----------------: | :------------------: |
+|      Data Analytics     |        Genetics       |    Neuroscience    |     Space Science    |
+|       Data Science      | Computational Biology |     Psychology     |       Astronomy      |
+|     Machine Learning    |     Drug Discovery    |    Consciousness   |  Scientific Thinking |
+| Artificial Intelligence |     Healthcare AI     |     Philosophy     |      Exploration     |
 
 </div>
 
-<br/>
+---
+
+## 📈 GitHub Activity
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0F172A&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="GitHub contribution streak"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1&icon_color=38BDF8&include_all_commits=true" height="170" alt="GitHub statistics" />
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1&langs_count=8" height="170" alt="Most used programming languages" />
+</a>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
-<br/>
+---
 
-<!-- ===================== CONNECT =========================== -->
-
-## Let's Connect
-
-I am always interested in learning, collaborating on data projects, and connecting with professionals in analytics, business intelligence, and data science.
+## 🐍 Contribution Activity
 
 <div align="center">
 
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated GitHub contribution graph" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
-<br/>
+---
 
-<!-- ======================= FOOTER ========================== -->
+## 🔗 Connect With Me
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:164E63,100:0F172A&height=100&section=footer" width="100%" alt="Decorative footer"/>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
 
-  <p>
-    <strong>Turning curiosity into insights, and insights into impact.</strong>
-  </p>
+</div>
 
-  <p>
-    <sub>Built with curiosity • Driven by data • Always learning</sub>
-  </p>
+---
+
+<div align="center">
+
+### ✨ Turning data into insights, and insights into intelligent solutions.
+
+*Curious mind. Analytical thinking. Continuous learning.*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:164E63,100:0F172A&height=100&section=footer" width="100%" alt="Decorative animated footer" />
 
 </div>
